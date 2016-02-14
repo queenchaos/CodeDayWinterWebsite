@@ -1,6 +1,7 @@
 /*background-image: url("background.png");*/
 body{
   background-image: url("background.png");
+  background-repeat: repeat-y;
   background-color: #FFFFFF;
   color: #000000;
   font-family: impact;
