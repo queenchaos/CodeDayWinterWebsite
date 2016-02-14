@@ -1,7 +1,6 @@
 /*background-image: url("background.png");*/
 body{
   background-image: url("background.png");
-  background-size: 100%;
   background-color: #FFFFFF;
   color: #000000;
   font-family: impact;
@@ -17,9 +16,7 @@ header{
   font-size: 100px;
 }
 h3{
-  color: #000000;
-  font-family: impact;
-  font-size: 90px;
+  font-size: 15px;
 }
 h2{
   font-size: 40px;
